@@ -1,0 +1,30 @@
+.light-tabs ul.light-tabs-nav, .light-tabs ul.light-tabs-nav li {
+	margin:0;
+	padding:0;
+}
+.light-tabs ul.light-tabs-nav {
+	overflow:hidden;
+	margin:0;
+	padding:0;
+}
+.light-tabs ul.light-tabs-nav li {
+	float: left;
+	list-style:none;
+}
+.light-tabs ul.light-tabs-nav li a {
+  display:block;
+}
+.light-tabs .light-tab {
+}
+
+.light-tabs .light-tab.light-tab-closed {
+	display:none;
+}
+.light-tabs .light-tab.light-tab-opened {
+	display:block;
+}
+.light-tabs ul.light-tabs-nav li a.current {
+}
+.light-tabs .light-tab {
+	
+}

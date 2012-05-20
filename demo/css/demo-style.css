@@ -1,0 +1,32 @@
+/* General Demo Style */
+body{
+  font-size:100%;
+  font-family: 'PT Sans Narrow', sans-serif;
+  background: #E6E6E6;
+  color: #222;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+a {
+  text-decoration:none;
+}
+p {
+  font-size:18px;
+}
+
+h1, h2, h3 {
+  color:#AB3C47;
+  margin:5px 0 5px 0;
+  
+}
+
+h1 {
+  margin:50px 0 0 0;
+  text-align:center;
+  font-size:80px;
+  font-weight: 600;
+  font-style: normal;
+  text-shadow: -1px 1px 1px #fff;
+  color:#CF0C55;
+}
